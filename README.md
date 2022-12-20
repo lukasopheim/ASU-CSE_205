@@ -11,3 +11,4 @@ A7: 18/20      don't know why but i only pass 3/4 test cases
 A8: 20/20      numbers in array value calculator: max, sum of evens, sum of numbers at odd indexes
 A9: 20/20      linked list project, user can input choices from a menu and program performs chosen task
 A10: 20/20     useds queues, loan officers andf customers project
+ 
