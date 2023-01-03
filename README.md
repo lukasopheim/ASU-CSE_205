@@ -1,4 +1,7 @@
-# ASU-CSE_205-
+# ASU-CSE_205
+
+Click on the file for better readability 
+
 these are the java files of the assignments i did in cse 205 
 scores: 
 A1: 20/20      scanner program 
