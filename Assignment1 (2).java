@@ -1,6 +1,6 @@
 // Assignment #: 1
 //         Name: Lukas Opheim
-//    StudentID: 1224151695
+//    StudentID:
 //      Lecture: 10:30, tuesday thursday 
 //  Description: (1)This class reads an integer from a keyboard and prints it out
 //               along with other messages.
