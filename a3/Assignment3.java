@@ -1,6 +1,6 @@
 // Assignment #: 3
 //         Name: Lukas Opheim
-//    StudentID: 1224151695
+//    StudentID: 
 //      Lecture: 10:30, tuesday thursday 
 // Description: This class displays a menu of choices to a user
 //        and performs the chosen task. It will keep asking a user to
