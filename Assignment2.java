@@ -1,6 +1,6 @@
 // Assignment #: 2
 //         Name: Lukas Opheim
-//    StudentID: 1224151695
+//    StudentID: 
 //      Lecture: 10:30, tuesday thursday 
 import java.util.Scanner;  
 public class Assignment2 {
